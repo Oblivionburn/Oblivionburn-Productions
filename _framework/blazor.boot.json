@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "oblivionburn",
   "resources": {
-    "hash": "sha256-TDMXaD2WWthouqFS/ntSSumMWEjywawjK68yIMFKlDE=",
+    "hash": "sha256-xOaVlP/hcrPdbYiG3Z3LTBEm3n3d7Y4YnMFNupvL3Fo=",
     "fingerprinting": {
       "Microsoft.AspNetCore.Components.65jlq3bqst.wasm": "Microsoft.AspNetCore.Components.wasm",
       "Microsoft.AspNetCore.Components.Web.e5f7shz2gy.wasm": "Microsoft.AspNetCore.Components.Web.wasm",
@@ -17,7 +17,7 @@
       "Microsoft.Extensions.Primitives.b4jkd67mjk.wasm": "Microsoft.Extensions.Primitives.wasm",
       "Microsoft.JSInterop.ceii4uvike.wasm": "Microsoft.JSInterop.wasm",
       "Microsoft.JSInterop.WebAssembly.s0bw0921jm.wasm": "Microsoft.JSInterop.WebAssembly.wasm",
-      "oblivionburn.s0vqkaz5dj.wasm": "oblivionburn.wasm",
+      "oblivionburn.7rnhr8kgy3.wasm": "oblivionburn.wasm",
       "System.Collections.Concurrent.3ehu1bcyg6.wasm": "System.Collections.Concurrent.wasm",
       "System.Collections.Immutable.i5mojijpem.wasm": "System.Collections.Immutable.wasm",
       "System.Collections.6yoz2injrz.wasm": "System.Collections.wasm",
@@ -76,7 +76,7 @@
       "Microsoft.Extensions.Primitives.b4jkd67mjk.wasm": "sha256-y5KhfFmWfdksjtbAoenM1JUiSJMqFX/OvU33Zgo3Hhk=",
       "Microsoft.JSInterop.ceii4uvike.wasm": "sha256-XKYdndgfChvRApHX9srcHDwFlU47PgUGEu6JdEwmajI=",
       "Microsoft.JSInterop.WebAssembly.s0bw0921jm.wasm": "sha256-NNwR0xu2wKvvEIZnSUwKht+/0RJ9ziHW01M66VViIkI=",
-      "oblivionburn.s0vqkaz5dj.wasm": "sha256-jIttfhP3tzhrwe6GC/vXIvxmRF/ePIuF+aocg0yxVJk=",
+      "oblivionburn.7rnhr8kgy3.wasm": "sha256-fRJrHXbgojbket5aO9GEgt8ND5V9eCKsHJKb1MSosp8=",
       "System.Collections.Concurrent.3ehu1bcyg6.wasm": "sha256-dV96G/HF1YeoQHWb7qAz79rlxBOm2/Tq24EUOLmfEew=",
       "System.Collections.Immutable.i5mojijpem.wasm": "sha256-2o7/1luHPNvyJ3F18KOhwDGsQt+YpN+yd+WoIxuEvXo=",
       "System.Collections.6yoz2injrz.wasm": "sha256-DmMsPGBtrn9jGk6cP4FShnQ4Ruf2iWVaktu/0GqMR6g=",

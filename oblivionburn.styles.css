@@ -165,6 +165,11 @@ table[b-4v3ev4ns26] {
     max-width: 100%
 }
 
+.video[b-4v3ev4ns26] {
+    max-width: 100%;
+    max-height: 100%;
+}
+
 .top-row[b-4v3ev4ns26] {
     height: 10%;
 }
@@ -177,17 +182,13 @@ table[b-4v3ev4ns26] {
     height: 10%;
 }
 
-.left-middle-panel[b-4v3ev4ns26], .left-top-panel[b-4v3ev4ns26], .left-bottom-panel[b-4v3ev4ns26] {
-    width: 10%;
-}
-
-.center-top-panel[b-4v3ev4ns26] {
-    width: 80%;
+.top-panel[b-4v3ev4ns26] {
+    width: 100%;
     text-align: center;
-    vertical-align: middle;
 }
 
-.center-middle-panel[b-4v3ev4ns26] {
+.center-panel[b-4v3ev4ns26] {
+    width: 100%;
     font-family: sans-serif;
     color: #ffffff;
     vertical-align: top;
@@ -195,13 +196,9 @@ table[b-4v3ev4ns26] {
     padding: 60px 20px 20px 20px
 }
 
-.center-bottom-panel[b-4v3ev4ns26] {
-    width: 80%;
+.bottom-panel[b-4v3ev4ns26] {
+    width: 100%;
     text-align: center;
-}
-
-.right-middle-panel[b-4v3ev4ns26], .right-top-panel[b-4v3ev4ns26], .right-bottom-panel[b-4v3ev4ns26] {
-    width: 10%;
 }
 /* /Pages/Music.razor.rz.scp.css */
 html[b-76bpm1rwf1], body[b-76bpm1rwf1] {
@@ -522,7 +519,13 @@ table[b-13q8ajdbue] {
 
 .banner[b-13q8ajdbue] {
     max-height: 100%;
-    max-width: 100%
+    max-width: 100%;
+}
+
+.book[b-13q8ajdbue] {
+    aspect-ratio: 7 / 9;
+    max-width: 100%;
+    height: auto;
 }
 
 .top-row[b-13q8ajdbue] {
