@@ -1,0 +1,1 @@
+C:\Users\argai\OneDrive\Documents\Visual Studio 2022\Projects\oblivionburn\oblivionburn\obj\Release\net9.0\browser-wasm\PubTmp\Out\web.config

@@ -1,0 +1,61 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = browser
+build_property.RootNamespace = oblivionburn
+build_property.RootNamespace = oblivionburn
+build_property.ProjectDir = H:\Development\Websites\Oblivionburn Productions\oblivionburn\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = false
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = H:\Development\Websites\Oblivionburn Productions\oblivionburn
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
+
+[H:/Development/Websites/Oblivionburn Productions/oblivionburn/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[H:/Development/Websites/Oblivionburn Productions/oblivionburn/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[H:/Development/Websites/Oblivionburn Productions/oblivionburn/Layout/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-n7zwcslzbu
+
+[H:/Development/Websites/Oblivionburn Productions/oblivionburn/Pages/Contact.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udGFjdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-6rgl793mp3
+
+[H:/Development/Websites/Oblivionburn Productions/oblivionburn/Pages/Games.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR2FtZXMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-4v3ev4ns26
+
+[H:/Development/Websites/Oblivionburn Productions/oblivionburn/Pages/Music.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTXVzaWMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-76bpm1rwf1
+
+[H:/Development/Websites/Oblivionburn Productions/oblivionburn/Pages/Software.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU29mdHdhcmUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-arvneex9qu
+
+[H:/Development/Websites/Oblivionburn Productions/oblivionburn/Pages/Videos.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmlkZW9zLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-91udzbmbf4
+
+[H:/Development/Websites/Oblivionburn Productions/oblivionburn/Pages/Writing.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcV3JpdGluZy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-13q8ajdbue
